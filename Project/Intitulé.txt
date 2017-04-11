@@ -1,0 +1,3 @@
+Réalisation d’une application « Kiosque » pour les ouvrages numériques diffusés en interne chez Conserto.
+Technique : PHP/Symfony
+
