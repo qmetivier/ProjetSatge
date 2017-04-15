@@ -1,0 +1,27 @@
+.header ,.search-result{
+	padding: 20px 0;
+	border: 2px solid black;
+}
+
+.btn-login{
+	margin-left: 5px;
+}
+
+.search-div{
+	padding: 20px 0;
+}
+
+.search{
+	border: 2px solid black;
+}
+
+.search-button{
+	margin-left: -6px;
+}
+
+.option{
+	background-color: white;
+	color: black;
+	width: 500px;
+	margin-left: 500px;
+}
